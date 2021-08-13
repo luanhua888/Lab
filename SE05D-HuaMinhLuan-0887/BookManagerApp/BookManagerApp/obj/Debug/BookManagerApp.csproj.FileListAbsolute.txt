@@ -1,0 +1,10 @@
+D:\C#\BookManagerApp\BookManagerApp\bin\Debug\BookManagerApp.exe.config
+D:\C#\BookManagerApp\BookManagerApp\bin\Debug\BookManagerApp.exe
+D:\C#\BookManagerApp\BookManagerApp\bin\Debug\BookManagerApp.pdb
+D:\C#\BookManagerApp\BookManagerApp\bin\Debug\BookManagerLib.dll
+D:\C#\BookManagerApp\BookManagerApp\bin\Debug\BookManagerLib.pdb
+D:\C#\BookManagerApp\BookManagerApp\obj\Debug\BookManagerApp.csproj.AssemblyReference.cache
+D:\C#\BookManagerApp\BookManagerApp\obj\Debug\BookManagerApp.csproj.CoreCompileInputs.cache
+D:\C#\BookManagerApp\BookManagerApp\obj\Debug\BookManagerApp.csproj.CopyComplete
+D:\C#\BookManagerApp\BookManagerApp\obj\Debug\BookManagerApp.exe
+D:\C#\BookManagerApp\BookManagerApp\obj\Debug\BookManagerApp.pdb

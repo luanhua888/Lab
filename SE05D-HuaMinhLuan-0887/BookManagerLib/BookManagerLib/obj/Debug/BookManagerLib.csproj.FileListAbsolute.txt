@@ -1,0 +1,5 @@
+D:\C#\BookManagerLib\BookManagerLib\bin\Debug\BookManagerLib.dll
+D:\C#\BookManagerLib\BookManagerLib\bin\Debug\BookManagerLib.pdb
+D:\C#\BookManagerLib\BookManagerLib\obj\Debug\BookManagerLib.csproj.CoreCompileInputs.cache
+D:\C#\BookManagerLib\BookManagerLib\obj\Debug\BookManagerLib.dll
+D:\C#\BookManagerLib\BookManagerLib\obj\Debug\BookManagerLib.pdb
